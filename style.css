@@ -1,0 +1,117 @@
+body  {
+    background-size: 2000px;
+    font-size: 29px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+
+}
+
+
+a:hover {
+    font-size: 30px;
+    color: rgb(107, 127, 150);
+    transition: 0.3s;
+}
+
+a::after {
+    color: black;
+}
+
+.header {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color:rgb(50, 62, 104);
+    text-decoration: overline
+}
+
+ul {
+    width: 300px;
+    margin: 0 auto;
+    text-align: left;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.threeCh {
+    word-spacing: 117px;
+}
+
+.twoCh {
+    word-spacing: 130px;
+}
+
+p {
+    color:rgb(255, 0, 0);
+    margin: 5px 0;
+
+}
+
+.word{
+    color: rgb(152, 8, 165);
+}
+
+.fourCh {
+    word-spacing: 50px;
+}
+
+.threeChMT {
+    word-spacing: 70px;
+}
+
+    
+.twoChDD {
+    word-spacing: 280px;
+}
+
+.fiveCh {
+    word-spacing: 60px;
+}
+
+.threeChDD {
+    word-spacing: 63px;
+}
+
+.FSeriy {
+    color: rgb(129, 143, 143);
+}
+
+.twoChIR {
+    word-spacing: 40px;
+    
+}
+
+.IRseriy {
+    color: rgb(129, 143, 143);
+}
+.twoChIRintro {
+    word-spacing: 70;
+}
+
+.twoIRseriy {
+    color: rgb(129, 143, 143);
+}
+
+.twoChIRir {
+    word-spacing: 70px;
+    
+}
+
+.fourChIR {
+    word-spacing: 45px;
+}
+
+
+.twoChITND {
+    word-spacing: 25px;
+}
+
+.fourChPV {
+    word-spacing: 80px;
+}
